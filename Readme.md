@@ -1,6 +1,6 @@
 # Golang版本的 Selpg
 
-[toc]
+[TOC]
 
 ### 使用简介
 
